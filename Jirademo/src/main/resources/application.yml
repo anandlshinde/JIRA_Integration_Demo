@@ -1,0 +1,8 @@
+jira:
+  secret: Intuit#123
+  user-name: svc_IA-CCPA-DevTeam_support
+  base-url: https://jiraprf.intuit.com
+  ticket-url: /rest/api/2/issue
+  basic-authToken: Basic c3ZjX0lBLUNDUEEtRGV2VGVhbV9zdXBwb3J0OkludHVpdCMxMjM=
+server:
+  port: 9095
